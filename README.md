@@ -25,6 +25,7 @@ Attempts from others to try to gain access to the dimension has led to failure. 
 ---
 
 ## Reports
+
 OScD-00284-BE
 ```
 Object Class: Thaumic Medkit (TMK-001)
@@ -75,4 +76,46 @@ Look, I've seen some weird shit in 12 years with the Foundation. Keter breaches,
 We're doomed. Praise be to whatever saint Dr. Morrison prays to.
 
 END OF DOCUMENT.
+```
+
+OScD-00284-CF
+```
+Object Class: Memetic Glare Hazard (MGH-001) - "The Look From Hell"
+Special Containment Procedures: Ethics Committee personnel (Clearance 4/5) may observe OR procedures at Site-45 only from the gallery, behind one-way glass, with audio muted. No entry to the sterile field without written approval from FMS Director Dr. Eurus and the lead surgeon. Violators will be escorted out by MTF Epsilon-6 and banned from Site-45 medical wings for 90 days. Repeat offenders get reassigned to SCP-████ ethics reviews... permanently.
+
+MGH-001 remains non-lethal, non-replicating, and tied exclusively to Dr. Sydney Morrison (FMS-003349-H). It is recommended that you do not test this anomaly by provoking Dr. Morrison. In fact, I wouldn't advise breathing wrong in her vicinity.
+
+Description: MGH-001 is a spontaneous memetic effect triggered by Dr. Morrison under duress. No incantation, no focus object, just eye contact. Common symptoms in target include, but are not limited to: immediate compliance, loss of motor control, spontaneous confession of minor sins (e.g., “I stole a pen in 2018”). OSCD classifies it as E-class thaumic compulsion. Dr. Morrison classifies it as "a normal Tuesday".
+
+Incident OScD-00284-CF: “Ethics Gets Schooled in OR-1”
+Location: Site-45, MD OR-1 (Its the only OR, why does it need a special designation?)
+Summary: Emergency hemic resection on D-8821 (SCP-████ exposure, blood crystallizing into rosary-like structures). Surgical team involved: Dr. Hope (Lead), Dr. Morrison (anesthesia), Dr. Epione (anesthesia), Dr. June (circulator). Mid-procedure, Ethics Committee Senior Liaison Dr. Evelyn Carter (Clearance 5, Site-45 Ethics Chair) barged in to “halt unauthorized anomalous transfusion.” She would soon realize that she had just made a big mistake.
+
+Log Excerpt (OR feed, audio redacted for patient privacy):
+> [BEGIN LOG]
+> Morrison, masked, voice low: “June, pack the left lobe. Epione, push more profopol"
+> The OR doors burst open, Dr. Carter storms in, with all of the entitlement Level 5 grants you, tablet glowing with EC-17-C violation flags.
+> Carter: “Dr. Morrison, cease transfusion immediately! This blood is unregistered anomalous material, EC directive supersedes-”
+> Morrison doesn’t flinch. Turns only her head. THE LOOK fires. OR temp drops 4°F. Overhead lights flicker like they would in a horror game.
+> Epione (under breath): “Oh no.”
+> June (already backing up): “Dr. C, you picked the wrong shift.”
+> Carter locks eyes. Tablet slips from her fingers, clatters. Face goes sheet-white. Mouth opens, but no sound came out.
+> Carter (whisper, trembling): “I… misfiled the form. It’s approved. Carry on.” She then turned and walked straight into an instrument tray, but didn't seem to notice.
+> Morrison (turning back to patient): “June, door. Epione, more suction. We’re not losing this one to bureaucracy.”
+> TMK-001 ejects a fresh unit of O-neg on its own. Janice ribbits once, almost as if laughing at the Ethics Committee member. The procedure was a success.
+> [END LOG]
+
+Aftermath:
+- D-8821 stabilized. Crystals dissolved. Full recovery projected.
+- Dr. Carter filed a self-correction to EC-17-C within 6 minutes.
+- Site-45 Ethics now routes all medical overrides through Dr. Eurus first. Carter hasn’t entered an OR since.
+- TMK-001 restocked with extra saline and a single Twizzler labeled “For the frog.” Janice approved.
+
+Addendum 00284-CF-1: O5 Directive
+Ethics Committee (Site-45): You have Clearance 5. Dr. Morrison has results. Respect the chain.
+
+Addendum 00284-CF-2: Personal Note from Logging Officer (Dr. R. Caldwell, OSCD)
+Carter’s a legend in Ethics—wrote half the D-Class consent forms. One look from Morrison and she folded like origami... What hell is even going on...
+
+End Document
 ```
