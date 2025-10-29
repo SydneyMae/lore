@@ -115,7 +115,7 @@ Addendum 00284-CF-1: O5 Directive
 Ethics Committee (Site-45): You have Clearance 5. Dr. Morrison has results. Respect the chain.
 
 Addendum 00284-CF-2: Personal Note from Logging Officer (Dr. R. Caldwell, OSCD)
-Carter’s a legend in Ethics—wrote half the D-Class consent forms. One look from Morrison and she folded like origami... What hell is even going on...
+Carter’s a legend in Ethics, she wrote half the D-Class consent forms. One look from Morrison and she folded like origami... What hell is even going on...
 
 End Document
 ```
